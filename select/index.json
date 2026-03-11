@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "akumachan †",
+  "base_artist": "Lilniina",
+  "createdAt": "2026-03-11T06:07:35.115860Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "akumachan †",
+      "artist": "Lilniina",
+      "has_synced": false,
+      "path": "select/pl_01_akumachan_†_Lilniina.txt"
+    }
+  ]
+}
